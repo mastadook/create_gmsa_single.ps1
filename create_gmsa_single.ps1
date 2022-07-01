@@ -3,7 +3,7 @@
  Script to create new GMSA Service Accounts (Groupmanaged)
  This script does nearly all what is needed to use GMSA Accounts.
 
- Theo only things you need to do are:
+ The only things you need to do are:
  1. Create an OU in AD where the Groups for the GMSA Accounts will be stored
  2. Add this Information to this Script here
  3. Add your local Domain (here in this Example: home.local) to the Script
